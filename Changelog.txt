@@ -1,0 +1,54 @@
+v2.8
+- Landtiles and delimiters are now written with legacy graphic as in newer v.5
+
+v2.7
+- Fix at Landtile writing
+- NumericUpDown Version will be disabled while working
+v2.6
+- Mul2Uop is now compatible with new SA Facet Format ( uop v.5 )
+- Default and OnlyOsiStatics buttons will be disabled while working
+- Added NumericUpDown to choose Uop Versions ( KR = 4 - SA = 5 )
+v2.5
+- Added check on ml2kr.bin
+- Artidx Box will be disabled if "Only Osi Statics" is not checked.
+v2.4
+Koksi mod:
+- Added checkbox for OSi Statics ( if checked custom statics will be ignored )
+- Mul2Uop will now convert also maps with less size than ML.
+- added Artidx box for osi checking
+- changed MapID style
+- Added Default Button 
+v2.3
+- changed X Y calculation 
+- Changed offsetcalculation
+- Now map/statics conversion works fine with OSI Arts
+v2.2
+- Fixed Y
+- now mail folder will have name of facet
+- Now Maps are converted Correctly.
+v2.1
+- fix at Index_0 file
+- Index_0 will be now created into sector folder
+- Added main folder "SelectME" to select with Packer
+v2.0te
+- fixed some button
+- added infos on maps' standard sizes in about box
+v2.0se
+- fixed progress bar
+v2.0
+- fixed progress bar
+- added blocks progress bar
+- fixed idx index
+- added idx index calculation
+- small fixes at Form1
+- small fixes at About
+- added icon
+v1.9
+Kons' changes:
+- redrawed Form1
+- added bg worker
+- added progress bar
+- reordered Code
+- added about btn
+v1.8
+This and previous versions were developed by Koksi who didn't make any changelog :P
